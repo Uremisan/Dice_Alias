@@ -9,3 +9,8 @@ The Dice Guesser Game is a fun and interactive game built using Python and Pygam
 4. If not, keep rolling until you succeed.
 
 ## 🖼️ Game Preview
+![image alt](https://github.com/Uremisan/Dice_Alias/blob/8f5bfa992454b4a926db1de047ad5baf06f21f6a/Screenshot%202025-01-02%20at%2015.19.13.png)
+
+![image alt](https://github.com/Uremisan/Dice_Alias/blob/8f5bfa992454b4a926db1de047ad5baf06f21f6a/Screenshot%202025-01-02%20at%2015.19.21.png)
+
+![image alt](https://github.com/Uremisan/Dice_Alias/blob/8f5bfa992454b4a926db1de047ad5baf06f21f6a/Screenshot%202025-01-02%20at%2015.19.29.png)
